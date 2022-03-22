@@ -4,7 +4,7 @@ This repository contains [save](./SAVE) for [Tap Tap Infinity](https://store.ste
 
 ## All time stats
 
-* **Achievements earned:** 99/100
+* **Achievements earned:** 100/100
 * **Ascend times:** 16
 
 ![All time stats](./all-time-stats.png)
